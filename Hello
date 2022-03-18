@@ -1,2 +1,6 @@
-Hi my name is....
-Ét o ét
+Program hi;
+Write ('nho em rat nhieu');
+Readln;
+End.
+
+
