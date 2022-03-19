@@ -1,6 +1,0 @@
-Program hi;
-Write ('nho em rat nhieu');
-Readln;
-End.
-
-
